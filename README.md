@@ -12,4 +12,4 @@ CRUG 10/03/2012 - Michael Siciliano: Analyzing Social Networks with
 
 CRUG 10/03/2012 - Nick Switanek: Some Network Basics with R
 
-CRUG 5/30/2012 - Eric Knell: Software Engineering in R
+ CRUG 5/30/2012 - Eric Knell: Software Engineering in R
